@@ -47,7 +47,7 @@ A sophisticated AI-powered translation application built with Python, featuring 
    python IBM_internship.py
    ```
 
-The application will launch in your default web browser at `http://localhost:7860`
+The application will launch in your default web browser at http://127.0.0.1:7860/
 
 ## 🔧 Usage
 
@@ -137,17 +137,6 @@ The application includes a robust demo mode that works even if some dependencies
 - **gradio**: Web UI framework
 - **sentencepiece**: Tokenization (optional in demo mode)
 
-## 🤝 Contributing
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
-
-## 📜 License
-
-This project is open source and available under the [MIT License](LICENSE).
 
 ## 🙏 Acknowledgments
 
@@ -155,13 +144,8 @@ This project is open source and available under the [MIT License](LICENSE).
 - Google for the T5 model
 - Gradio team for the amazing UI framework
 
-## 📞 Support
 
-If you encounter any issues or have questions:
 
-1. Check the [Issues](https://github.com/snehaa002/AI-Powered-MultiLingual-Translator-Main/issues) page
-2. Create a new issue with detailed information
-3. Include your Python version and error messages
 
 ---
 
