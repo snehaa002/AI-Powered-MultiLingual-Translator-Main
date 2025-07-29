@@ -47,7 +47,7 @@ A sophisticated AI-powered translation application built with Python, featuring 
    python IBM_internship.py
    ```
 
-The application will launch in your default web browser at http://127.0.0.1:7860/
+The application will launch in your default web browser at 127.0.0.1:7860
 
 ## 🔧 Usage
 
